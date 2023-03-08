@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://images.pexels.com/photos/4551532/pexels-photo-4551532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+     font-family: cursive;
+     width:30% ;
+     height: auto;
+     background-color: rgba(193, 219, 194, 0.6);
+     float:left;
+     /* margin:5%; */
+     
+}
+ 
+    

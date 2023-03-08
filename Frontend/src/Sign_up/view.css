@@ -1,0 +1,12 @@
+table{
+    background-color: aliceblue;
+    margin: auto;
+    width: 80%;
+    height: auto;
+}
+td{
+border: solid black 2px;
+}
+th{
+border: solid black 2px;
+}
